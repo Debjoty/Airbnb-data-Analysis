@@ -45,10 +45,9 @@ This Airbnb analysis project provides valuable business intelligence into how Ai
 ---
 
 ## 📸 Dashboard / Visualization Preview
+![Image](https://github.com/user-attachments/assets/c19a4194-bc45-49c0-94d8-a70d795fe312)
+![Image](https://github.com/user-attachments/assets/bea2cd38-f5da-418b-9286-4b587f30fcfe)
 
-![Image](https://github.com/user-attachments/assets/1253d05c-a4b2-4b40-8409-39a6a4ac12f3)
-
-![Image](https://github.com/user-attachments/assets/35d989d0-a051-46f5-bfd1-4e42173fc1ba)
 
 ---
 
