@@ -53,8 +53,8 @@ This Airbnb analysis project provides valuable business intelligence into how Ai
 
 ## 🔗 Let's Connect
 
-📫 aritrasadhukhan5557@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/aritrasadhukhan)  
-💻 [GitHub](https://github.com/AritraSadhukhan)
+📫 debjotychandra@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/debjoty-chandra)  
+💻 [GitHub](https://github.com/Debjoty)
 
 ---
